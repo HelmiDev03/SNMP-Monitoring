@@ -4,7 +4,6 @@ This project is a real-time SNMP monitoring dashboard that:
 
 - 🐍 Uses **FastAPI (Python)** to request SNMP data from `localhost`
 - ⚛️ Uses **React + Vite** for the frontend to display system and network interface data
-- 🎯 Focuses on **interface 15** (Wi-Fi card) to visualize live traffic (in/out and their deltas)
 - 📥 Supports exporting logs and graphing stats post-capture
 
 ---
