@@ -13,7 +13,7 @@ This project is a real-time SNMP monitoring dashboard that:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SNMP-Monitoring.git
+git clone https://github.com/helmidev03/SNMP-Monitoring.git
 cd SNMP-Monitoring
 ```
 
